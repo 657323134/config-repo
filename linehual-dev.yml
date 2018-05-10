@@ -17,6 +17,6 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 datasync:
-  cron: 0/20 * * * * *
+  cron: 0/14 * * * * *
 env:
   dev
