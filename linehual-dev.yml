@@ -1,10 +1,4 @@
 spring:
-  datasource:
-    data: com.alibaba.druid.pool.DruidDataSource
-    driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: root
-    url: jdbc:mysql://localhost:3306/linehual?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
   cloud:
